@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a web/iOS developer, currently finishin high school.
+I am a web/iOS developer, currently finishing high school.
 <!--
 **il-an/il-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
